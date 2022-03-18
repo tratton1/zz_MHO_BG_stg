@@ -6,3 +6,7 @@ When pulling the code to create the services use the content directories for eac
 URLs
 Blue - http://zz-mho-bg-stg-git-blue-crm-forge-stg.apps.np2.paas.medcity.net/
 Green - http://zz-mho-bg-stg-git-green-crm-forge-stg.apps.np2.paas.medcity.net/
+
+Updated: 03/18/2022
+using SSH Key to authenticate
+
